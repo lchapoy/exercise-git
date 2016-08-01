@@ -24,11 +24,19 @@ readme.md file, click the edit icon and start answering the questions.
 
 #### 1 What is Git?
 
+  DSSDF
+  
 #### 2 What is Github?
+
+  SDSD
 
 #### 3 Describe the command that were used on Try Git tutorial.
 
+  SDSD
+
 #### 4 What are the main advantages?
+
+  SDSD
 
 ##Exercise
 
